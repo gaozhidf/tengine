@@ -46,7 +46,7 @@ ENV CONFIG "\
         --with-stream_ssl_preread_module \
         --with-stream_realip_module \
         --with-stream_geoip_module=dynamic \
-	--with-stream_sni
+	--with-stream_sni \
         --with-http_slice_module \
         --with-mail \
         --with-mail_ssl_module \
